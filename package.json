@@ -13,7 +13,7 @@
     "store",
     "project"
   ],
-  "author": "",
+  "author": "gorinax_cmg",
   "license": "ISC",
   "dependencies": {
     "cypress": "^7.2.0"
