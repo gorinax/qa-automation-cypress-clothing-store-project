@@ -4,12 +4,22 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx cypress run"
   },
-  "keywords": [],
+  "keywords": [
+    "qa",
+    "automation",
+    "clothing",
+    "store",
+    "project"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "cypress": "^7.2.0"
+  },
+    "repository":{
+    "type":"git",
+    "url":"https://github.com/gorinax/qa-automation-cypress-clothing-store-project"
   }
 }
